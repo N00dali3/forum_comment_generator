@@ -1,5 +1,5 @@
 # forum_comment_generator
-Forum Comment Generator
+Python Forum Comment Generator
 
 
 *Project from my Intro to Python college course*
